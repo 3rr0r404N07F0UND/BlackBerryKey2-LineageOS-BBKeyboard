@@ -12,7 +12,7 @@
 - `BBKeyboard.apk`
 - `BlackBerryKeyboard.apk`
 
-> https://drive.google.com/drive/folders/179OaVKUlvlhCRFaNlnutaVMijCxAzX6-?usp=drive_link
+> https://drive.google.com/drive/folders/179OaVKUlvlhCRFaNlnutaVMijCxAzX6-?usp=sharing
 
 ---
 
