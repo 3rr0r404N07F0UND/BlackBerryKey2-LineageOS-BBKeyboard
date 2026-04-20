@@ -4,6 +4,12 @@
 
 ---
 
+> krab 버전의 ROM을 사용하고 있다면 Release에 위치한 BlackBerry Keyboard R을 설치해주시면 됩니다.
+
+> 아래의 내용은 krab ROM에는 해당되지 않습니다.
+> 
+> krab ROM을 사용할 것을 권장합니다.
+
 ## 1️⃣ 준비
 
 1. 압축 파일을 해제합니다.
@@ -18,11 +24,6 @@
 
 ## 2️⃣ 설치
 
-> krab 버전의 ROM을 사용하고 있다면 BlackBerry Keyboard R을 설치해주시면 됩니다.
-
-> 아래의 내용은 krab ROM에는 해당되지 않습니다.
-> 
-> krab ROM을 사용할 것을 권장합니다.
 
 APK 파일 2개를 디바이스에 설치합니다.
 
